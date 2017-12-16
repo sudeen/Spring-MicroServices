@@ -1,6 +1,7 @@
 # Created by .ignore support plugin (hsz.mobi)
 .gitignore
 .idea/
+
 db-service/src/main/resources/static/
 db-service/src/main/resources/templates/
 db-service/.gitignore
@@ -9,3 +10,13 @@ db-service/mvnw
 db-service/.mvn
 db-service/db-service.iml
 db-service/target
+
+
+stock-service/src/main/resources/static/
+stock-service/src/main/resources/templates/
+stock-service/target
+stock-service/.mvn
+stock-service/mvnw
+stock-service/mvnw.cmd
+stock-service/.gitignore
+stock-service/stock-service.iml
