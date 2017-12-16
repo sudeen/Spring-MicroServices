@@ -3,3 +3,9 @@
 .idea/
 db-service/src/main/resources/static/
 db-service/src/main/resources/templates/
+db-service/.gitignore
+db-service/mvnw.cmd
+db-service/mvnw
+db-service/.mvn
+db-service/db-service.iml
+db-service/target
